@@ -16,7 +16,7 @@
 </table>
 
 
-# 个人简介
+## 个人简介
 
 * 王建芳，男，1979年6月生（籍贯：河南洛阳市），博士，副教授，硕士生导师（2013.5-）; 2010年1月毕业于西北工业大学计算机科学与技术专业，并获工学博士学位，并同年入职河南理工大学计算机学院至今；
 * 爱尔兰利莫瑞克大学访问学者（2016年）；
@@ -60,10 +60,18 @@
 
 ## 学术论文
 
-* Adversarial Training-based Mean Bayesian Personalized Ranking for Recommender System, IEEE ACCESS (SCI2区,IF:3.745) ,.
+* Adversarial Training-based Mean Bayesian Personalized Ranking for Recommender System, IEEE ACCESS (SCI2区,IF:3.745) .
+
+
 * Multi-feedback Pairwise Ranking via Adversarial Training for Recommender, Chinese Journal of Electronics(SCI 4区, IF:0.941).
+
+
 * Sparse Representation Classification based On Flexible Patches Sampling Of Superpixels for Hyperspectral Images, Mathematical Problems in Engineering(SCI4区,IF:1.009), 2018.12.
+
+
 * Hyperspectral Image Classification via Joint Sparse representation of Multi-layer Superpixles, KSII TRANSACTIONS ON INTERNET AND INFORMATION SYSTEMS(SCI4区IF:0.648),2018.12.
+
+
 * 一种融合信任和项目卷积描述信息的PMF算法,控制与决策（EI期刊), 2020.08.
 
 ## 专著教材
