@@ -1,5 +1,6 @@
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
-images: zhengjianzhao.jpg
-title: 王建芳
-description: 世中逢尔，雨中逢花
-keywords: hang shun
