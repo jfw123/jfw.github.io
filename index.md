@@ -4,9 +4,11 @@ You can use the [editor on GitHub](https://github.com/jfw123/jfw.github.io/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 个人简介
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+王建芳，男，1979年6月生（籍贯：河南洛阳市），博士，副教授，硕士生导师（2013.5-）; 2010年1月毕业于西北工业大学计算机科学与技术专业，并获工学博士学位，并同年入职河南理工大学计算机学院至今；
+爱尔兰利莫瑞克大学访问学者（2016年）；
+研究生阶段曾师从中国第一台机载计算机研制者康继昌老先生。
 
 ```markdown
 Syntax highlighted code block
