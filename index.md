@@ -10,15 +10,15 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# 个人简介
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+* 王建芳，男，1979年6月生（籍贯：河南洛阳市），博士，副教授，硕士生导师（2013.5-）; 2010年1月毕业于西北工业大学计算机科学与技术专业，并获工学博士学位，并同年入职河南理工大学计算机学院至今；
+* 爱尔兰利莫瑞克大学访问学者（2016年）；
+* 研究生阶段曾师从中国第一台机载计算机研制者康继昌老先生。
 
-## Header 2
+# 研究兴趣
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+推荐系统，数据挖掘，大数据分析
 
 ### Header 3
 
