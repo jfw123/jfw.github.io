@@ -7,7 +7,7 @@
   <tr>
     <td width="75%">
       <h1>王建芳</h1>
-      <p><b>男，博士，副教授，硕士研究生导师.</b></p>
+      <p><b>男，博士，教授，硕士研究生导师.</b></p>
       <p><b>河南理工大学计算机科学与技术学院</b></p>
       <p><b>电话：15993710156</b></p>
       <p><b>邮箱：jfwang1510@gmail.com</b></p>
@@ -18,13 +18,13 @@
 
 ## 个人简介
 
-* 王建芳，男，1979年6月生（籍贯：河南洛阳市），博士，副教授，硕士生导师（2013.5-）; 2010年1月毕业于西北工业大学计算机科学与技术专业，并获工学博士学位，并同年入职河南理工大学计算机学院至今；
+* 王建芳，男，河南洛阳），博士，教授，硕士生导师; 2010年1月毕业于西北工业大学计算机科学与技术专业，并获工学博士学位，并同年入职河南理工大学计算机学院至今；
 * 爱尔兰利莫瑞克大学访问学者（2016年）；
 * 研究生阶段曾师从中国第一台机载计算机研制者康继昌老先生。
 
 ## 研究兴趣
 
-推荐系统，数据挖掘，大数据分析
+人工智能与大数据分析，推荐系统，医学图像处理
 
 ## 教育教学
 
@@ -61,17 +61,9 @@
 ## 学术论文
 
 * Adversarial Training-based Mean Bayesian Personalized Ranking for Recommender System, IEEE ACCESS (SCI2区,IF:3.745) .
-
-
 * Multi-feedback Pairwise Ranking via Adversarial Training for Recommender, Chinese Journal of Electronics(SCI 4区, IF:0.941).
-
-
 * Sparse Representation Classification based On Flexible Patches Sampling Of Superpixels for Hyperspectral Images, Mathematical Problems in Engineering(SCI4区,IF:1.009), 2018.12.
-
-
 * Hyperspectral Image Classification via Joint Sparse representation of Multi-layer Superpixles, KSII TRANSACTIONS ON INTERNET AND INFORMATION SYSTEMS(SCI4区IF:0.648),2018.12.
-
-
 * 一种融合信任和项目卷积描述信息的PMF算法,控制与决策（EI期刊), 2020.08.
 
 ## 专著教材
